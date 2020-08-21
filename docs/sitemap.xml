@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/about/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/categories/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/post/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/tags/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/post/20200821post/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/tags/%E9%9B%91%E8%AB%87/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ishii-git/blogdown.git/categories/%E9%9B%91%E8%AB%87/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
