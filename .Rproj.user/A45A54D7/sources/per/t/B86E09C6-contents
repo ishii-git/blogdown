@@ -1,4 +1,4 @@
-baseURL = "https://github.com/ishii-git/blogdown.git"
+baseURL = "https://ishii-git.github.io/blogdown/"
 title = "ishii-blog"
 languageCode = "ja-jp"
 paginate = 10
