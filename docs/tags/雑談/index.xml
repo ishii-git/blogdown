@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>雑談 on ishii-blog</title>
-    <link>https://ishii-git.github.io/blogdown/tags/%E9%9B%91%E8%AB%87/</link>
+    <link>/tags/%E9%9B%91%E8%AB%87/</link>
     <description>Recent content in 雑談 on ishii-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ishii-git.github.io/blogdown/tags/%E9%9B%91%E8%AB%87/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E9%9B%91%E8%AB%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブログ開設</title>
-      <link>https://ishii-git.github.io/blogdown/post/20200821post/</link>
+      <link>/post/20200821post/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ishii-git.github.io/blogdown/post/20200821post/</guid>
+      <guid>/post/20200821post/</guid>
       <description>なんか勉強したものとかをまとめるもの置き場を作りました。内容は勉強中なので間違っていると思います。間違いがあればご指摘をお願いします。</description>
     </item>
     
